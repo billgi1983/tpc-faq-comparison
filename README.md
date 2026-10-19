@@ -1,1 +1,5 @@
-# tpc-faq-comparison
+# 台電官網既有 FAQ 脈絡優化新舊對照
+
+本專案為台電專題工程之「官網既有 FAQ 脈絡優化審核與新舊對照」靜態網頁。
+
+- 網頁發布：GitHub Pages
